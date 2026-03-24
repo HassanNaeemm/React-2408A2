@@ -41,11 +41,7 @@ function Footer()
                   <div className="nav-column">
                     <h6>Studio</h6>
                     <nav className="footer-nav">
-                      <a href="#!">Our Story</a>
-                      <a href="#!">Design Process</a>
-                      <a href="#!">Portfolio</a>
-                      <a href="#!">Case Studies</a>
-                      <a href="#!">Awards</a>
+                     
                     </nav>
                   </div>
                 </div>
@@ -54,11 +50,7 @@ function Footer()
                   <div className="nav-column">
                     <h6>Services</h6>
                     <nav className="footer-nav">
-                      <a href="#!">Brand Identity</a>
-                      <a href="#!">Web Design</a>
-                      <a href="#!">Mobile Apps</a>
-                      <a href="#!">Digital Strategy</a>
-                      <a href="#!">Consultation</a>
+                     
                     </nav>
                   </div>
                 </div>
@@ -67,11 +59,7 @@ function Footer()
                   <div className="nav-column">
                     <h6>Resources</h6>
                     <nav className="footer-nav">
-                      <a href="#!">Design Blog</a>
-                      <a href="#!">Style Guide</a>
-                      <a href="#!">Free Assets</a>
-                      <a href="#!">Tutorials</a>
-                      <a href="#!">Inspiration</a>
+                     
                     </nav>
                   </div>
                 </div>
@@ -80,11 +68,7 @@ function Footer()
                   <div className="nav-column">
                     <h6>Connect</h6>
                     <nav className="footer-nav">
-                      <a href="#!">Start Project</a>
-                      <a href="#!">Schedule Call</a>
-                      <a href="#!">Join Newsletter</a>
-                      <a href="#!">Follow Updates</a>
-                      <a href="#!">Partnership</a>
+                      
                     </nav>
                   </div>
                 </div>
@@ -111,12 +95,10 @@ function Footer()
 
             <div className="col-lg-6">
               <div className="legal-links">
-                <a href="#!">Privacy Policy</a>
-                <a href="#!">Terms of Service</a>
-                <a href="#!">Cookie Policy</a>
+                
                 <div className="credits">
                   
-                  Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>. Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+                  Designed by <a >BootstrapMade</a>. Distributed by <a  target="_blank">ThemeWagon</a>
                 </div>
               </div>
             </div>
