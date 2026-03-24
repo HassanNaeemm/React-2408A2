@@ -14,10 +14,7 @@ function Header()
           <i className="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
         </div>
         <div className="social-links d-none d-md-flex align-items-center">
-          <a className="twitter"><i className="bi bi-twitter-x"></i></a>
-          <a  className="facebook"><i className="bi bi-facebook"></i></a>
-          <a className="instagram"><i className="bi bi-instagram"></i></a>
-          <a className="linkedin"><i className="bi bi-linkedin"></i></a>
+          
         </div>
       </div>
     </div>
@@ -25,11 +22,11 @@ function Header()
     <div className="branding d-flex align-items-cente">
 
       <div className="container position-relative d-flex align-items-center justify-content-between">
-        <a  className="logo d-flex align-items-center">
+       
          
            <img src="assets/img/logo.webp" alt=""/>
           <h1 className="sitename">Clinic</h1>
-        </a>
+        
 
         <nav id="navmenu" className="navmenu">
           <ul>
@@ -38,7 +35,7 @@ function Header()
             <li><Link to="/depart">Products</Link></li>
             <li><Link to="/contact">Contact</Link></li>
             <li><Link to="/api">API Record</Link></li>
-            <li className="dropdown"><a ><span>More Pages</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+            <li className="dropdown">
             <ul>
             
             </ul>
