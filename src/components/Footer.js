@@ -10,7 +10,7 @@ function Footer()
 
           <div className="col-lg-5">
             <div className="brand-section">
-              <a href="index.html" className="logo d-flex align-items-center mb-4">
+              <a  className="logo d-flex align-items-center mb-4">
                 <span className="sitename">Clinic</span>
               </a>
               <p className="brand-description">Crafting exceptional digital experiences through thoughtful design and

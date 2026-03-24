@@ -1,6 +1,5 @@
 import { useContext } from 'react';
 
-import { MyValue } from './TestContext';
 import { Theme } from './ThemeContext';
 function Home()
 {

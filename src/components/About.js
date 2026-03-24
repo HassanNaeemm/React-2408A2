@@ -1,6 +1,6 @@
 import { useContext } from 'react'
 import './Home.css'
-import { MyValue } from './TestContext'
+
 import { Theme } from './ThemeContext'
 function About()
 {

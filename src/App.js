@@ -9,8 +9,6 @@ import UsersData from './components/JSON/users.json';
 import Contact from './components/Contact';
 import Api from './components/Api';
 import AuthGuard from './components/AuthGuard';
-import { MyValue } from './components/TestContext';
-import { setTheme, Theme } from './components/ThemeContext';
 import { useState } from 'react';
 import MotionFramer from './components/MotionFramer';
 function App() {
