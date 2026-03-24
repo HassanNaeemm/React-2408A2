@@ -19,7 +19,7 @@ function MotionFramer() {
         style={{ height: 300, margin: 30 }}
       >
         <div className="col-lg-4">
-         {loading ? <Skeleton height={200} width={300} /> : <img src="assets/img/clients/clients-1.webp" alt="My Image"/>}
+         {loading ? <Skeleton height={200} width={300} /> : <img src="assets/img/clients/clients-1.webp" alt="Client1"/>}
         </div>
         <div className="col-lg-8">
           <h2 className="mt-4">This is a random heading</h2>
