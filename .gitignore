@@ -1,6 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+/Clinic-1.0.0
+Clinic-1.0.0.zip
 /node_modules
 /.pnp
 .pnp.js
