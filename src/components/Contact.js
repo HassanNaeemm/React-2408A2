@@ -4,24 +4,24 @@ function Contact()
 {
     var [error,Seterror] = useState()
     var [dis,setdis] = useState(true);
-    function checkvalidation()
-    {
-       var a =  document.getElementById('inp').value
-       if(a != "" && a.length > 8)
-       { 
-        console.log("Filled")
-        Seterror("Form has been submitted")
-        setdis(false);
-        console.log(setdis)
-       }
-       else
-       {
-        console.log("Empty")
-        Seterror("Please fill in the field")
-        setdis(true)
-        console.log(setdis)
-       }
-    }
+    // function checkvalidation()
+    // {
+    //    var a =  document.getElementById('inp').value
+    //    if(a.length > 8)
+    //    { 
+    //     console.log("Filled")
+    //     Seterror("Form has been submitted")
+    //     setdis(false);
+    //     console.log(setdis)
+    //    }
+    //    else
+    //    {
+    //     console.log("Empty")
+    //     Seterror("Please fill in the field")
+    //     setdis(true)
+    //     console.log(setdis)
+    //    }
+    // }
     return(
         // html
         <>
