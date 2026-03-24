@@ -10,9 +10,7 @@ function Footer()
 
           <div className="col-lg-5">
             <div className="brand-section">
-              <a  className="logo d-flex align-items-center mb-4">
-                <span className="sitename">Clinic</span>
-              </a>
+             
               <p className="brand-description">Crafting exceptional digital experiences through thoughtful design and
                 innovative solutions that elevate your brand presence.</p>
 
@@ -98,11 +96,10 @@ function Footer()
                 
                 <div className="credits">
                   
-                  Designed by <a >BootstrapMade</a>. Distributed by <a  target="_blank">ThemeWagon</a>
-                </div>
+                  
               </div>
             </div>
-
+</div>
           </div>
         </div>
       </div>

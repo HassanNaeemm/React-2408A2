@@ -34,7 +34,7 @@ function MotionFramer() {
           <p>this is a random paragraph , built for demo purposes your real content shall go here</p>
         </div>
         <div className="col-lg-4">
-          <img src="assets/img/clients/clients-1.webp"/>
+          <img src="assets/img/clients/clients-1.webp" alt="Clients2"/>
         </div>
      
       </motion.div>

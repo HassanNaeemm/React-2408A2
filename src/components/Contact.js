@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './Contact.css';
 function Contact()
 {
-    var [error,Seterror] = useState()
+    
     var [dis,setdis] = useState(true);
     // function checkvalidation()
     // {
@@ -28,7 +28,6 @@ function Contact()
         <div className="container">
         <h2>Contact Form</h2>
         <input id="inp" type="text" className="w-100 p-1"/>
-        <p className="text-danger">{error}</p>
         <button disabled={dis} className="btn btn-success my-2">Submit Data</button>
         </div>
         </>
