@@ -10,6 +10,7 @@ import Contact from './components/Contact';
 import Api from './components/Api';
 import AuthGuard from './components/AuthGuard';
 import { useState } from 'react';
+import { Theme } from './components/ThemeContext';
 import MotionFramer from './components/MotionFramer';
 function App() {
   // Array of Objects
